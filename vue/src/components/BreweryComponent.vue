@@ -376,6 +376,11 @@ main {
   border-radius: 10px;
   width:80rem;
 }
+
+.brewery-details{
+  padding-left: 1rem;
+  margin-right: 30rem;
+}
 }
 
 
